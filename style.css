@@ -1,0 +1,19 @@
+body {
+    background-color: #dcdcdc;
+}
+#flex {
+    position:absolute;
+	left:10px;
+	top:250px;
+}
+h1 {
+    color: #757575;
+}
+p {
+    color: #8f8f8f;
+}
+header {
+    position:absolute;
+	left:850px;
+	top:0;
+}

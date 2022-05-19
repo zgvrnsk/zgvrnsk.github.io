@@ -1,0 +1,33 @@
+body {
+    background-color: #CD853F;
+}
+nav {
+    position:absolute;
+	left:10px;
+	top:30px;
+}
+h1 {
+    color: #FFDEAD;
+}
+p {
+    color: #FFDEAD;
+}
+header {
+    position:absolute;
+	left:870px;
+	top:0;
+}
+main {
+     position:absolute;
+	left:10px;
+	top:150px;
+}
+h2 {
+    color: #F5DEB3;
+}
+#flex {
+    position:absolute;
+	left:0px;
+	right:70px;
+	top:97px;
+}
